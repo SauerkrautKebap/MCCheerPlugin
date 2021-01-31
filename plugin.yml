@@ -1,0 +1,5 @@
+name: MCCheerPlugin
+main: com.sauerkrautkebap.mccheerplugin.Main
+version: 0.0.1
+api-version: 1.13
+commands:
